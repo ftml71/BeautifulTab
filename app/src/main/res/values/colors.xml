@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#6200EE</color>
+  <color name="colorPrimaryDark">#3700B3</color>
+  <color name="colorAccent">#03DAC5</color>
+
+  <color name="textChats">#01ABE7</color>
+  <color name="textCalls">#FFB914</color>
+  <color name="textContacts">#AC35D8</color>
+  <color name="textsettings">#01DEB7</color>
+
+  <color name="bgChats">#C4E6F2</color>
+  <color name="bgCalls">#F7EDC5</color>
+  <color name="bgContacts">#E6CFEF</color>
+  <color name="bgsettings">#CEEFE2</color>
+
+  <array name="tabTextColor">
+    <item>@color/textChats</item>
+    <item>@color/textCalls</item>
+    <item>@color/textContacts</item>
+    <item>@color/textsettings</item>
+  </array>
+
+  <array name="tabItemColor">
+    <item>@color/bgChats</item>
+    <item>@color/bgCalls</item>
+    <item>@color/bgContacts</item>
+    <item>@color/bgsettings</item>
+  </array>
+</resources>
